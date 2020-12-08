@@ -14,4 +14,5 @@ pytorch 学习路径
 
 # 学习路径
 [第一章,配置pytorch环境](./all_learn_process/配置环境.md)
+[第二章，pytorch快速入门](./all_learn_process/快速入门.ipynb)
 
