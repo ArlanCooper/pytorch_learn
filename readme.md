@@ -19,4 +19,9 @@ pytorch 学习路径
 
 [第三章，tensor和autgrad](./all_learn_process/codes/chapter3/第三章学习.ipynb)
 
+[第四章，神经网络工具箱nn](./all_learn_process/codes/chapter4/第四章学习.ipynb)
+
+[第五章，常用工具模块](./all_learn_process/codes/chapter5/第五章学习.ipynb)
+
+
 
