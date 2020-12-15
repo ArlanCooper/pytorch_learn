@@ -23,5 +23,7 @@ pytorch 学习路径
 
 [第五章，常用工具模块](./all_learn_process/codes/chapter5/第五章学习.ipynb)
 
+[第六章，实战指南](./all_learn_process/codes/chapter6/第六章学习.ipynb)
+
 
 
