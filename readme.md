@@ -25,5 +25,7 @@ pytorch 学习路径
 
 [第六章，实战指南](./all_learn_process/codes/chapter6/第六章学习.ipynb)
 
+[第七章，LSTM写诗](./all_learn_process/codes/chapter7/README.md)
+
 
 
